@@ -1,0 +1,10 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+E:\3rd Semester\Michael Claudins\TCPServerClient\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+E:\3rd Semester\Michael Claudins\TCPServerClient\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+E:\3rd Semester\Michael Claudins\TCPServerClient\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+E:\3rd Semester\Michael Claudins\TCPServerClient\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
